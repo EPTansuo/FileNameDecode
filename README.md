@@ -14,3 +14,9 @@ fileNameDecode	-v/--version
 
 Base on [URLDecode](https://github.com/abejfehr/URLDecode)
 
+### Install 
+```shell
+make
+make install
+```
+

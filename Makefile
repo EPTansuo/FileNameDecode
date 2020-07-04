@@ -4,3 +4,7 @@ fileNameDecode:
 
 clean:
 	rm fileNameDecode
+install:
+	sudo mv ./fileNameDecode /usr/bin/fileNameDecode
+
+
